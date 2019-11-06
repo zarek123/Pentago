@@ -1,0 +1,20 @@
+PRZEBIEG GRY
+Gracze na zmiane umieszczaja kule na planszy. Rozpoczyna gracz, który ma biale kule.
+Umieszcza jedna ze swoich kul na dowolne wolne pole na planszy. Po umieszczeniu kuli gracz
+przekreca dowolna czesc planszy o 90° w dowolnym kierunku.
+Nastêpnie do gry przystêpuje drugi gracz. Uklada jedna ze swoich kul na dowolne wolne pole
+na planszy i przekreca dowolns czesc planszy o 90°. Do gry znow przystepuje gracz posiadajacy
+biale kule.
+
+ZASADY PRZEKRECANIA PLANSZY
+1. Gracz moze wybrac dowolna czesc planszy, któr¹ przekreca o 90° w lewo lub w prawo.
+2. Jesli gracz po umieszczeniu kuli otrzyma rzad skladajacy sie z pieciu kul w swoim kolorze, wygrywa
+i nie musi ju¿ obracac planszy.
+
+KONIEC GRY
+Wygrywa gracz, ktory jako pierwszy ulozy 5 swoich kul w jednym rzedzie. Rzad pieciu kul mo¿e byc
+w poziomie, pionie lub na ukos.
+Jesli po przekreceniu wybranej czesci planszy powstana dwa rzedy skladajace sie z pieciu kul, jeden
+bialy, a drugi czarny, gra konczy sie remisem.
+Jezeli wszystkie pola na planszy zostan¹ zajete i zaden z graczy nie ulozy 5 kul w swoim kolorze
+w jednym rzedzie, gra konczy sie remisem.
